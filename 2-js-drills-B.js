@@ -19,4 +19,4 @@
 // 18. Define a function (funcReturnsFunc) that returns an anonymous function. If you like you can have funcReturnsFunc log out something before it returns the function. The returned function can just log out a simple message to inform you it ran. 
 // 19. Invoke funcReturnsFunc, and store the result in a const.
 // 20. Using that const, run the returned function.
-// 21. Now do the same thing in one line: run funcReturnsFunc, and then run the anonymous function result immediately.
+// 21. Now do the same thing in one line: run funcReturnsFunc, and then run the anonymous function that results immediately.
