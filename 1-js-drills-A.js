@@ -13,7 +13,7 @@
 // 4. Make an object (in ruby this would be a hash) with four keys, and have the keys be three different data types.
 // 5. Access two of the values in your object, and log them to the screen.
 // ============================================
-// 6. Create another object with one key and value pair, and invoke the previous function with that object as the argument.
+// 6. Create another object with one key and value pair.
 // 7. Define a function that takes that type of object as the input, and log out the value of one of the keys of the object.
 // ============================================
 // 8. Make an object with three keys and values, and assign it to a variable.
