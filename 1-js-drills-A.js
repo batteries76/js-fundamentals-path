@@ -14,7 +14,7 @@
 // 5. Access two of the values in your object, and log them to the screen.
 // ============================================
 // 6. Create another object with one key and value pair.
-// 7. Define a function that takes that type of object as the input, and log out the value of one of the keys of the object.
+// 7. Define a function that takes that type of object as the input, and log out the value of that key.
 // ============================================
 // 8. Make an object with three keys and values, and assign it to a variable.
 // 9. Make four more objects with the same keys.
