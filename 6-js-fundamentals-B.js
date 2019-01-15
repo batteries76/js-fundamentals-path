@@ -109,8 +109,8 @@ console.log("==================")
 // Write a function testNum that takes a number as an argument and returns a promise that resolves if the argument is greater than 10, and errors if it is less than 10.
 
 // *Problem 13*
-//   Write a function, makeAllCaps(), that takes in an array of words and capitalizes them. If the 
-//   array contains anything but strings, it should throw an error.
+// Write a function, makeAllCaps(), that takes in an array of words and capitalizes them. If the 
+// array contains anything but strings, it should throw an error.
 
 // *Problem 14*
 // Write a function that takes an array of numbers, and returns a promise. If the array contains any strings the function should throw an error, otherwise it should resolve with the largest number in the array.
