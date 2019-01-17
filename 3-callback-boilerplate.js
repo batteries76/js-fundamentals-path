@@ -1,6 +1,7 @@
 // run the following in the same folder as this file
 // > npm install callback-source
-// > npm install express
+// > npm install node-geocoder
+// > npm install node-fetch
 // Now investigate the following code.
 // The first two functions have been uncommented and are ready to go. From there the code will break, and you will need to fix it as you go.
 
