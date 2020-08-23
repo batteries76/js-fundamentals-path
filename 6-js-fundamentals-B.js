@@ -58,7 +58,7 @@ promiseLooper()
     .then(function(dataInsidePromise) {
         console.log(dataInsidePromise)
         console.timeEnd('problem-10')
-        return console.log("Finished 10")
+        console.log("Finished 10")
     })
     .catch(function(error) {
         console.error("Why will this not appear?")
@@ -93,7 +93,7 @@ promiseTimoutAsync()
     .then(function(dataInsidePromise) {
         console.log(dataInsidePromise)
         console.timeEnd('problem-11')
-        return console.log("Finished 11")
+        console.log("Finished 11")
     })
     .catch(function(error) {
         console.error("Why will this not appear?")

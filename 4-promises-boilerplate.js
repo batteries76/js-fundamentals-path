@@ -26,7 +26,10 @@ funcObj.arrWeirdness()
 // funcObj.whatArgs()
 
 // 4. This function takes string arguments, and returns a promise. See if you can make sense of what is going on, and have a play with the function to try to understand it. 
-// funcObj.isAWhatNow()
+funcObj.isAWhatNow("clue", "this")
+    .then(x => {
+        console.log(x)
+    })
 
 // 5. Very difficult. See if you can make it to the center of the earth.
 // funcObj.rabbitHole()
