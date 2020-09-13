@@ -8,7 +8,7 @@
 // Here we are importing an object from my module. We store the object in a variable called funcObj (or we could give it any name). Now that we have that object we have access to the functions inside it.
 const funcObj = require('callback-source')
 
-// Here I am loggin the object we imported. It should show you the functions within it (which is interesting, but not much help)
+// Here I am logging out the object we imported. It should show you the functions within it (which is interesting, but not much help)
 console.log(funcObj)
 
 // *********************************************** //
