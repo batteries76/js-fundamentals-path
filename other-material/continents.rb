@@ -1,0 +1,3 @@
+# 1. Define a continent class. Give this class a couple of attributes, one of which should be countries. This will be an attribute that is an array of country objects. Define a country class, state, and a city class. Make some objects relating to each class, and assign them to the relevant classes array attribute. Eg, cities would be in an array relating to the ‘cities’ attribute of a state or country object. 
+
+# 2. Think about then define a bank class. Have the bank perform the basic typical bank operations and contain the relevant data. Extend this by defining a customer class, and have this class interact with your bank class. 

@@ -110,5 +110,47 @@
 // 6. Create an array of five food items. Using a while loop iterate through the array and print each item to screen.
 // 7. Keep the same while loop from above with one new addition: when the iteration gets to your favorite food (pick an item from those you added), and print that "<this> is my favorite", but instead of <this> use string interpolation to specify the item.
 // 8. Create a counter and set it to 0. Generate a random integer between 1 and 100. Create an empty array with the variable name of `boolArray`. Create a while loop that loops until the counter is greater your randomly generated number. In the loop body, if the counter is odd push `false` into the array, and if the counter is even push `true` into the array.
-// 9. Create an array variable named `codingLanguages` with four different programming languages in it. Call `.each` on this array, and print out each language from the array.
-// 10. Repeat question 6 and 7 from the while challenges using `.each`. This time we won't need a counter, but use this inbuilt array method.
+// 9. Create an array variable named `codingLanguages` with four different programming languages in it. Call `.forEach` on this array, and print out each language from the array.
+// 10. Repeat question 6 and 7 from the while challenges using `.forEach`. This time we won't need a counter, but use this inbuilt array method.
+
+// In this next series of exercises, we’ll use loops to print out patterns of characters.
+// First pattern:
+// #
+// ##
+// ###
+// ####
+// #####
+// Second pattern:
+// #####
+// ####
+// ###
+// ##
+// #
+// Third Pattern:
+//     #
+//    ##
+//   ###
+//  ####
+// #####
+// Fourth pattern: 
+//     ##
+//    ####
+//   ######
+//  ########
+// ##########
+// Final challenge:
+// create a function called tree()
+// tree() accepts one argument, height. 
+// ex: tree(5)
+// tree() should print out a tree with number of rows of ## equal to height. it should also have a “trunk”. Some examples:
+// tree(5)
+//     ##
+//    ####
+//   ######
+//  ########
+// ##########
+//     ||
+//  tree(2)
+//     ##
+//    ####
+//     ||

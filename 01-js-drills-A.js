@@ -19,7 +19,7 @@
 // ============================================
 
 // 6. Create another object with one key and value pair.
-// 7. Define a function that takes that type of object as the input, and log out the value of that key.
+// 7. Define a function that takes that type of object as the input, and log out the value of that key you created previously.
 // ============================================
 
 // 8. Make an object with three keys and values, and assign it to a variable.
